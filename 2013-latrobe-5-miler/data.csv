@@ -1,0 +1,251 @@
+bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoverall,xag,yag
+533,1,***,Ryan Boccabella,19,N Huntingdon,PA,26:29,5:18/mi,M,16-19,22,3.2,22,3.2
+709,2,***,Dima Kunstbeck,16,Altoona,PA,29:54,5:59/mi,M,16-19,78,3.2,68,3.2
+676,3,***,Jeremiah Wagner,35,Ligonier,PA,29:55,5:59/mi,M,30-39,69,3.2,73.5,3.2
+644,4,1,Kevin Augustine,17,Latrobe,PA,30:13,6:03/mi,M,16-19,73.5,11.8,78,3.2
+524,5,1,Andrew Cramer,20,Champion,PA,30:16,6:03/mi,M,20-29,78.5,20.5,79,3.2
+708,6,1,Chris Smitj,38,Latrobe,PA,30:32,6:06/mi,M,30-39,83.5,11.8,83.5,3.2
+703,7,2,Cody Nail,18,Altoona,PA,30:45,6:09/mi,M,16-19,91,18.4,87.9,3.2
+636,8,1,Thomas Deakins,46,Meyersdale,PA,30:54,6:11/mi,M,40-49,88.5,3.2,88,3.2
+664,9,***,Hannah Scipio,19,Loyalhanna,PA,31:22,6:16/mi,F,16-19,93.5,-5.5,96,-3.2
+738,10,3,Damiyan Davis,17,West Newton,PA,31:24,6:17/mi,M,16-19,99.5,13.1,96,9.1
+677,11,***,Liz Aquino,38,Harrison City,PA,31:37,6:19/mi,F,30-39,103.5,-5.5,99,-3.2
+629,12,4,Steven Joyce,19,Plum,PA,31:37,6:19/mi,M,16-19,98.5,3.2,104,3.2
+565,13,1,Doug Ulishney,52,Latrobe,PA,31:59,6:24/mi,M,50-59,108.5,3.2,105,3.2
+697,14,2,Bob Vitale,38,Bradenville,PA,33:22,6:40/mi,M,30-39,125.9,5.4,121,3.2
+678,15,***,Jeannie Bujdos,20,Indiana,PA,33:23,6:40/mi,F,20-29,126.1,-11.9,126,-3.2
+705,16,1,Megan Cala,21,Export,PA,33:23,6:41/mi,F,20-29,121,-3.4,126,-3.2
+583,17,3,Gerald Pyrock,38,Derry,PA,33:29,6:42/mi,M,30-39,122,14.6,131,3.2
+747,18,1,Morgan Ansell,16,Greensburg,PA,33:46,6:45/mi,F,16-19,131,-3.2,131,-3.2
+518,19,1,Josh Adam,15,New Alexandria,PA,34:16,6:51/mi,M,1-16,135,21.1,139,3.2
+642,20,2,Elias Kott,13,Latrobe,PA,34:17,6:51/mi,M,1-16,134,11.2,139,3.2
+706,21,1,Gina Galetti,36,Greensburg,PA,34:37,6:55/mi,F,30-39,140.3,-6.8,139,-12.3
+566,22,4,Scott Shaffer,35,Latrobe,PA,34:38,6:56/mi,M,30-39,140,3.2,140.5,6.3
+660,23,2,Michael Lena,42,Waterloo,IA,34:39,6:56/mi,M,40-49,145,11.8,140.1,3.2
+667,24,5,Jim Silvis,37,Latrobe,PA,34:43,6:56/mi,M,30-39,141,30.9,150.5,6.7
+651,25,2,Dana Newlin,34,Mt. Pleasant,PA,34:47,6:57/mi,F,30-39,147.6,-13.6,152,-3.2
+722,26,3,Bret Ruffner,42,Latrobe,PA,34:52,6:58/mi,M,40-49,145,40,148.8,8
+647,27,3,Kristen Krempasky,33,Latrobe,PA,34:54,6:59/mi,F,30-39,154,-6,144,-3.2
+740,28,4,Amy Dematt,38,Greensburg,PA,34:55,6:59/mi,F,30-39,154,-21.3,149,-12.7
+606,29,3,Ben Slack-Foust,15,,PA,34:56,6:59/mi,M,1-16,150,3.2,149,3.2
+751,30,1,Annah Sukay,42,Greensburg,PA,34:56,6:59/mi,F,40-49,144,-22.9,149,-3.2
+510,31,5,Matt Wano,19,Latrobe,PA,34:58,7:00/mi,M,16-19,145,21.7,148.7,3.2
+742,32,4,Jeff Graham,45,Monroeville,PA,35:22,7:04/mi,M,40-49,151,31.2,157.6,3.2
+571,33,1,Alan Hill,60,Irwin,PA,35:23,7:05/mi,M,Over 60,154.7,22.1,156,3.2
+601,34,4,Christian Shugars,14,Blairsville,PA,35:40,7:08/mi,M,1-16,155,40.7,160,3.2
+693,35,6,Drew Hanna,18,Latrobe,PA,35:44,7:09/mi,M,16-19,160.4,32.5,158.7,3.2
+618,36,2,Zachary Arbore,20,Derry,PA,35:45,7:09/mi,M,20-29,156,12.2,161,3.2
+681,37,2,Dan McQuisten,51,Homer City,PA,35:46,7:09/mi,M,50-59,160,3.2,157,3.2
+649,38,3,David Plecenik,52,Jeannette,PA,35:49,7:10/mi,M,50-59,162.7,47,163.7,3.2
+633,39,6,Anthony DeNunzio,34,Jeannette,PA,35:58,7:12/mi,M,30-39,170,3.2,160.7,3.3
+650,40,7,Daniel Turnsek,17,West Newton,PA,36:01,7:12/mi,M,16-19,170,31.6,164.4,11.4
+736,41,8,Travis Conway,16,West Newton,PA,36:02,7:12/mi,M,16-19,165.8,12.1,170,3.2
+521,42,7,Gary Noonan,39,Greensburg,PA,36:05,7:13/mi,M,30-39,171,41.5,170.5,3.2
+590,43,4,Mark Niezelski,51,Latrobe,PA,36:10,7:14/mi,M,50-59,164.6,23.3,172,3.2
+699,44,2,Alexandria Brant,19,Latrobe,PA,36:13,7:15/mi,F,16-19,165,-5.6,164.7,-5.3
+739,45,5,Bill Orr,44,Imperial,PA,36:25,7:17/mi,M,40-49,173.3,18.5,168.4,3.2
+745,46,5,Rachel Bankaci,35,Greensburg,PA,36:45,7:21/mi,F,30-39,173.3,-11.2,178,-3.4
+632,47,3,Jacob Falbo,28,Latrobe,PA,36:52,7:22/mi,M,20-29,183,17.1,178,3.2
+516,48,1,Emma Kozuch,12,Greensburg,PA,36:58,7:24/mi,F,1-16,179.3,-3.2,176.7,-3.2
+655,49,5,Louis Joe,52,New Derry,PA,37:05,7:25/mi,M,50-59,178.5,8.3,183.6,3.2
+580,50,5,Devin Bowers,11,Latrobe,PA,37:05,7:25/mi,M,1-16,179,26.7,184.3,3.2
+627,51,6,Keith Klimchock,48,Latrobe,PA,37:08,7:26/mi,M,40-49,187,3.2,177,3.2
+528,52,8,Christopher Bova,34,Latrobe,PA,37:28,7:30/mi,M,30-39,185.2,34.6,184.9,3.8
+753,53,7,Ed Gaskey,40,Greensburg,PA,37:33,7:31/mi,M,40-49,188.9,25.3,183,3.2
+541,54,6,Erin Jury,31,Greensburg,PA,37:37,7:31/mi,F,30-39,184,-12.9,192,-3.2
+682,55,8,James Fernando,42,Johnstown,PA,37:46,7:33/mi,M,40-49,196,32.3,195.3,3.2
+637,56,2,Carly Meholic,20,Latrobe,PA,37:59,7:36/mi,F,20-29,191.1,-5.9,194.1,-3.2
+504,57,9,Kenneth Baldonieri,43,Greensburg,PA,38:00,7:36/mi,M,40-49,197.8,20.8,190,3.2
+624,58,6,Mark Malarik,53,Snydertown,PA,38:05,7:37/mi,M,50-59,192,11.9,193.4,5.2
+532,59,7,David Dzombak,56,Pittsburgh,PA,38:26,7:41/mi,M,50-59,206,3.2,203.3,4.2
+679,60,1,Mary Jean Bujdos,50,Indiana,PA,38:28,7:41/mi,F,50-59,199.9,-10.6,197.5,-3.9
+570,61,2,Lisa Cimbala,54,Irwin,PA,38:31,7:42/mi,F,50-59,208,-16.5,207.4,-4.9
+710,62,10,Dusty Kunstbeck,42,Altoona,PA,38:32,7:42/mi,M,40-49,198,3.2,208,3.2
+732,63,4,Jake Oshie,22,Latrobe,PA,38:32,7:42/mi,M,20-29,207.8,21.1,201,4
+669,64,9,Jason Brown,35,Latrobe,PA,38:34,7:43/mi,M,30-39,202,11.8,202,3.2
+734,65,3,Bethany Henry,27,Greensburg,PA,38:38,7:44/mi,F,20-29,200,-22.5,207.9,-3.2
+758,66,11,Joe Massaro,43,Latrobe,PA,38:48,7:46/mi,M,40-49,205.9,31,203.8,3.2
+737,67,3,Noreen See,51,Indiana,PA,39:14,7:51/mi,F,50-59,209,-6.6,217.4,-5.9
+594,68,8,David Jordan,51,Latrobe,PA,39:21,7:52/mi,M,50-59,213,12.7,213.2,3.2
+607,69,7,Molly Stiles,34,Blairsville,PA,39:23,7:52/mi,F,30-39,215.3,-23.3,215,-6.3
+724,70,10,Chris Angelicchio,33,Greensburg,PA,39:28,7:53/mi,M,30-39,212,40.4,212,3.2
+700,71,3,Katie Slivko,18,Latrobe,PA,39:29,7:54/mi,F,16-19,222,-15.9,217,-3.2
+560,72,2,Leah Vorce,13,N Huntingdon,PA,39:32,7:54/mi,F,1-16,219,-6.4,218,-3.2
+701,73,9,Randy Strayer,51,Greensburg,PA,39:40,7:56/mi,M,50-59,217.7,21.5,220.6,9.9
+723,74,11,Nathan Rost,34,Murrysville,PA,39:40,7:56/mi,M,30-39,215.9,31.2,215,12.7
+577,75,5,David Erfley,26,Greensburg,PA,39:45,7:57/mi,M,20-29,216,3.2,221,3.2
+720,76,12,John Smetanka,45,Latrobe,PA,39:46,7:57/mi,M,40-49,227,47.8,219,3.2
+526,77,12,David Waldron,30,Latrobe,PA,39:51,7:58/mi,M,30-39,221.8,39.3,228,3.2
+770,78,13,Keven Brajbic,38,Greensburg,PA,39:54,7:59/mi,M,30-39,227.9,21.6,223.7,12.7
+729,79,8,Amy Loughner,36,Latrobe,PA,39:57,7:59/mi,F,30-39,229,-6,225,-6.3
+534,80,14,Greg Null,30,Pittsburgh,PA,40:11,8:02/mi,M,30-39,223,13,223,3.2
+733,81,15,Jym Walters,38,Latrobe,PA,40:12,8:02/mi,M,30-39,233,3.2,233,12.9
+564,82,10,Charles Ellis,55,Scottdale,PA,40:17,8:03/mi,M,50-59,228.2,31.6,228,3.2
+514,83,13,Genny Close,48,Greensburg,PA,40:19,8:04/mi,M,40-49,225,3.2,225,12.3
+546,84,14,Mark Shoemaker,44,Latrobe,PA,40:30,8:06/mi,M,40-49,234.8,39.1,238,3.2
+634,85,11,Ron Amond,58,Latrobe,PA,40:30,8:06/mi,M,50-59,238,29.7,238,3.2
+575,86,15,Morris Ludwig,49,Pleasant Unity,PA,40:40,8:08/mi,M,40-49,232.9,13,230,3.2
+631,87,16,Louis Falbo,49,Latrobe,PA,40:40,8:08/mi,M,40-49,240,19.9,235,12.3
+628,88,9,Amanda Vresilovic,33,Blairsville,PA,40:47,8:09/mi,F,30-39,234.1,-14.5,238.2,-3.2
+527,89,4,Natalie McClarren,24,Derry,PA,40:56,8:11/mi,F,20-29,239,-5.8,237.7,-3.2
+688,90,4,Kasey Paul,18,Greensburg,PA,41:12,8:14/mi,F,16-19,239.4,-23,243,-3.2
+698,91,6,Philip Ferry,23,Youngstown,PA,41:16,8:15/mi,M,20-29,243.8,5.2,245.3,3.2
+687,92,16,Eric Quinn,31,Latrobe,PA,41:25,8:17/mi,M,30-39,250.2,12.9,246,3.2
+520,93,2,Larry Varchetti,66,Murrells Inlet,SC,41:28,8:17/mi,M,Over 60,249.5,23.1,247,3.2
+614,94,2,Kim Mohnkern,42,Ligonier,PA,41:31,8:18/mi,F,40-49,244.3,-14.3,245.7,-4.2
+635,95,5,Megan Beresford,24,Greensburg,PA,41:54,8:23/mi,F,20-29,248.7,-3.5,248,-10.2
+712,96,3,Jennifer Tinsman,40,Greensburg,PA,41:54,8:23/mi,F,40-49,254,-12,255.6,-3.2
+523,97,12,John Dell,53,Latrobe,PA,41:57,8:23/mi,M,50-59,257,29.7,252.7,3.2
+576,98,6,Megan Erfley,25,Greensburg,PA,41:59,8:24/mi,F,20-29,250,-22.5,255.1,-3.2
+721,99,5,Lindsay Smetanka,16,Latrobe,PA,42:11,8:26/mi,F,16-19,258.7,-3.2,258,-3.2
+645,100,4,Colleen Augustine,52,Latrobe,PA,42:17,8:27/mi,F,50-59,259.8,-20.7,258.8,-4.7
+589,101,13,Dick Boyle,56,Latrobe,PA,42:29,8:30/mi,M,50-59,258.1,6.8,262.6,4.5
+562,102,7,Janice Barry,27,Hopkinton,MA,42:32,8:30/mi,F,20-29,264,-11.7,265,-3.2
+707,103,17,Scott Roble,39,Greensburg,PA,42:34,8:31/mi,M,30-39,259,19.9,263.2,3.2
+653,104,17,John Patrick,41,Derry,PA,42:44,8:33/mi,M,40-49,267.3,25.3,261.9,4.6
+572,105,5,Julie Boyette,57,Middlebury,FL,42:52,8:34/mi,F,50-59,272.1,-17.3,269,-3.2
+595,106,18,Timothy Welsh,43,Robinson,PA,43:02,8:36/mi,M,40-49,266,13,271.7,3.2
+757,107,6,Levi Sheffler,14,Derry,PA,43:04,8:37/mi,M,1-16,272.4,33.9,271,3.2
+507,108,10,Jeanine Solo,34,Greensburg,PA,43:11,8:38/mi,F,30-39,268,-26.4,268.2,-5.4
+506,109,18,John Solo,33,Greensburg,PA,43:13,8:38/mi,M,30-39,268,3.2,273.2,3.2
+646,110,19,Drew Durigon,30,Latrobe,PA,43:18,8:39/mi,M,30-39,275.7,12.9,269,12.2
+762,111,11,Joan Davis,39,Latrobe,PA,43:23,8:41/mi,F,30-39,272.1,-5.9,278.2,-5.4
+612,112,20,Todd Shoemaker,36,Latrobe,PA,43:34,8:43/mi,M,30-39,274,48.9,278.9,12.2
+690,113,14,Brian O'Hara,53,Latrobe,PA,43:39,8:44/mi,M,50-59,282.4,31.1,275,11.4
+638,114,8,Kori Tetkoski,25,Latrobe,PA,43:39,8:44/mi,F,20-29,277.4,-29.8,275,-3.2
+623,115,6,Madison Mueseler,16,Latrobe,PA,43:46,8:45/mi,F,16-19,282.1,-5.8,282,-3.2
+542,116,19,Don Valentine,41,Ligonier,PA,43:47,8:45/mi,M,40-49,277.8,3.2,281.3,6
+519,117,3,Alan Baum,67,Delmont,PA,43:47,8:45/mi,M,Over 60,277,22.8,282,3.2
+744,118,9,Tara Oneal,23,Latrobe,PA,43:48,8:45/mi,F,20-29,286.1,-24.9,283,-3.2
+715,119,15,John Reinhardt,52,Duncansville,PA,43:56,8:47/mi,M,50-59,286.3,20,288.9,3.2
+743,120,21,Matt Maiers,31,Greensburg,PA,43:57,8:47/mi,M,30-39,279.7,40.7,288.8,13.6
+759,121,22,Jason Reed,37,Greensburg,PA,43:58,8:48/mi,M,30-39,286.8,47.8,283.1,3.2
+569,122,12,Michelle White,35,Latrobe,PA,44:06,8:49/mi,F,30-39,292,-6.8,289.4,-4.7
+621,123,16,Gerald Baldonieri,58,Latrobe,PA,44:07,8:49/mi,M,50-59,292,56.3,282,3.2
+643,124,4,Mary Kott,48,Latrobe,PA,44:07,8:49/mi,F,40-49,282,-15.8,285,-3.3
+573,125,17,Joe Boyette,57,Middlebury,FL,44:08,8:49/mi,M,50-59,289.4,38.2,282.5,17.9
+567,126,10,Cristi Knopsnider,27,Mt. Pleasant,PA,44:08,8:49/mi,F,20-29,290.2,-34,292,-3.2
+625,127,13,Heather Bridge,37,Ligonier,PA,44:09,8:50/mi,F,30-39,291.9,-16.8,284.4,-13.3
+505,128,23,Anthony Kovalchick,36,New Kensington,PA,44:13,8:51/mi,M,30-39,285.1,9.8,293,4.6
+610,129,7,Andrew Domasky,12,Sparta,NJ,44:17,8:51/mi,M,1-16,292.6,3.2,289,3.2
+503,130,5,Amy Baldonieri,43,Greensburg,PA,44:23,8:53/mi,F,40-49,296,-25.9,294.9,-4.7
+616,131,18,John Fournier,52,Greensburg,PA,44:34,8:55/mi,M,50-59,294.1,13.7,291.1,12.9
+671,132,4,Michael Cary,63,Latrobe,PA,44:44,8:57/mi,M,Over 60,291.9,28.2,292,3.2
+512,133,19,Kevin Cary,59,Teaneck,NJ,44:44,8:57/mi,M,50-59,296.6,45.2,301,12.5
+726,134,20,Tom Cuurry,45,Latrobe,PA,44:45,8:57/mi,M,40-49,298.9,35.3,291.2,4.6
+761,135,20,Vang Nguyen,57,Greensburg,PA,44:50,8:58/mi,M,50-59,300.2,22.6,297.5,3.2
+685,136,14,Tara Lancianese,31,Latrobe,PA,44:57,8:59/mi,F,30-39,301.9,-16.5,299.3,-3.2
+695,137,5,Paul Roble,67,Latrobe,PA,44:59,9:00/mi,M,Over 60,302.5,3.3,302,3.2
+665,138,21,Mark Modaffare,58,Bellefonte,PA,45:04,9:01/mi,M,50-59,303.8,13.4,306,3.2
+713,139,21,Richard Tinsman,43,Greensburg,PA,45:21,9:04/mi,M,40-49,310,21.1,301,3.2
+603,140,22,Bob Coll,47,Latrobe,PA,45:26,9:05/mi,M,40-49,306.1,42.3,311,3.2
+630,141,6,Mary Smetak,47,Latrobe,PA,45:28,9:05/mi,F,40-49,303.4,-6.6,306,-5.5
+543,142,23,Pete Murphy,47,Latrobe,PA,45:38,9:07/mi,M,40-49,315,37.8,306.1,11.8
+536,143,15,Emily Snyder,30,Jones Mills,PA,45:46,9:09/mi,F,30-39,307,-25.1,307.2,-9.3
+727,144,24,Chuck Krupper,39,Boswell,PA,45:47,9:09/mi,M,30-39,317,47.6,308,3.9
+694,145,6,John Bomboy,60,Home,PA,45:50,9:10/mi,M,Over 60,308,30.8,312,3.2
+557,146,16,Jaime Coll,34,Latrobe,PA,45:53,9:11/mi,F,30-39,308,-44.7,316.5,-13
+611,147,8,Michael Shoemaker,10,Latrobe,PA,46:01,9:12/mi,M,1-16,320,3.2,314.8,4.8
+559,148,22,Jim Gregory,51,Duncansville,PA,46:06,9:13/mi,M,50-59,312,7.3,317.5,3.2
+764,149,3,Melanie Hook,14,Greensburg,PA,46:09,9:14/mi,F,1-16,313.1,-4,315.2,-5.2
+763,150,24,James Hook,45,Greensburg,PA,46:12,9:14/mi,M,40-49,317.3,28,317.5,10.8
+754,151,17,Becky Kmetz,30,Acme,PA,46:13,9:14/mi,F,30-39,313,-36.1,315.1,-3.2
+586,152,7,Rich Null,61,Latrobe,PA,46:14,9:15/mi,M,Over 60,317.9,14.9,322,3.2
+585,153,11,Stacey Cadogan,26,Latrobe,PA,46:14,9:15/mi,F,20-29,314,-17.3,324,-3.2
+622,154,12,Kelly Clever,29,Derry,PA,46:15,9:15/mi,F,20-29,316.8,-26.9,314,-3.2
+537,155,25,Justin Smilo,31,Latrobe,PA,46:20,9:16/mi,M,30-39,325,21.8,320.1,5.5
+702,156,13,Danielle Dvorak,25,Delmont,PA,46:30,9:18/mi,F,20-29,328,-3.2,319,-11.8
+620,157,4,Meghan Zalich,14,Latrobe,PA,46:33,9:18/mi,F,1-16,323,-35.9,325,-3.2
+535,158,14,Rosemary Null,28,Pittsburgh,PA,46:45,9:21/mi,F,20-29,321,-10.1,331,-10.2
+658,159,18,Gina Torrente,32,North Huntingdon,PA,46:53,9:23/mi,F,30-39,330.2,-12.9,325,-3.2
+641,160,25,Doug Hood,46,Greensburg,PA,46:54,9:23/mi,M,40-49,324.7,34.8,329,11.8
+598,161,26,John Beers,45,Youngstown,PA,46:55,9:23/mi,M,40-49,332.5,28.5,324,3.2
+558,162,6,Patricia McDonough,58,Latrobe,PA,47:00,9:24/mi,F,50-59,325,-21.3,327.2,-3.2
+530,163,19,Renee Stimel,34,Latrobe,PA,47:00,9:24/mi,F,30-39,330.6,-29.5,335,-3.2
+680,164,27,John Palacki,45,Latrobe,PA,47:01,9:24/mi,M,40-49,334.8,4.2,334,3.2
+696,165,26,Ryan Klasnick,31,Latrobe,PA,47:06,9:25/mi,M,30-39,333.8,38.9,330.1,5.5
+691,166,23,Alan Long,57,Brazil,Brazil,47:08,9:26/mi,M,50-59,327,10.4,334.8,3.2
+522,167,7,Beth Dell,47,Latrobe,PA,47:09,9:26/mi,F,40-49,337,-37.2,329,-5.5
+639,168,20,Mandi Brown,38,Stahlstown,PA,47:12,9:26/mi,F,30-39,338,-22.8,330.1,-11.8
+613,169,8,Lori Butina,40,Latrobe,PA,47:20,9:28/mi,F,40-49,340,-13.1,339,-5.5
+501,170,7,William Rundle,28,Hagerstown,MD,47:30,9:30/mi,M,20-29,341,23.2,336,3.2
+588,171,21,Amy Meyers,35,Latrobe,PA,47:32,9:30/mi,F,30-39,341.5,-3.2,340,-11.8
+538,172,8,James Kilpatrick,64,Jeannette,PA,47:32,9:30/mi,M,Over 60,335.8,14.7,335.5,3.2
+550,173,28,Joe Pedrazzoli,44,Pittsburgh,PA,47:39,9:32/mi,M,40-49,343.7,8.7,339,11.8
+752,174,15,Kim Hilliard,23,Greensburg,PA,47:49,9:34/mi,F,20-29,345.9,-29,342.3,-4.5
+711,175,22,Tracy Bowman,31,Greensburg,PA,47:50,9:34/mi,F,30-39,348,-19.3,345,-3.2
+717,176,9,Roger Haney,60,Johnstown,PA,47:50,9:34/mi,M,Over 60,341.9,33.2,345.5,3.2
+661,177,29,Timothy Yarborough,40,Derry,PA,47:57,9:35/mi,M,40-49,349,17.2,349,11.8
+515,178,30,Jeff Kozuch,40,Greensburg,PA,47:58,9:35/mi,M,40-49,342.9,43.1,344,3.2
+652,179,9,Hames Sokol,10,Sutersville,PA,48:00,9:36/mi,M,1-16,350,27.4,345,3.2
+582,180,23,Heather Bukovac,35,Greensburg,PA,48:03,9:36/mi,F,30-39,349.3,-9.4,351,-11.1
+668,181,27,Jared Hines,34,New Derry,PA,48:03,9:37/mi,M,30-39,351,37.3,348.1,6.3
+716,182,8,David Reinhardt,24,Duncansville,PA,48:07,9:37/mi,M,20-29,352,3.2,348.7,3.2
+750,183,9,Cheri Alberts,46,Greensburg,PA,48:32,9:42/mi,F,40-49,358,-4.7,351.7,-3.2
+749,184,7,McKenna Still,17,Smithton,PA,48:43,9:45/mi,F,16-19,356,-25.2,356,-3.2
+593,185,10,Denise Shaffer,41,Latrobe,PA,48:46,9:45/mi,F,40-49,357.3,-15.3,361.7,-3.2
+756,186,9,Matthew Moore,29,Latrobe,PA,49:36,9:55/mi,M,20-29,364,15.8,366.9,3.2
+725,187,24,Michel Mauers,37,Greensburg,PA,49:47,9:57/mi,F,30-39,367,-12.9,367,-3.2
+704,188,9,Cory Daruzio,17,Derry,PA,49:50,9:58/mi,M,16-19,368,6.6,372.6,3.2
+640,189,16,Megan Arthur,26,Latrobe,PA,50:02,10:00/mi,F,20-29,370,-3.2,374.6,-3.2
+581,190,11,Krissy Bush,42,Latrobe,PA,50:10,10:02/mi,F,40-49,373.7,-20.2,375,-3.5
+568,191,31,Chris King,42,Greensburg,PA,50:10,10:02/mi,M,40-49,374,14.6,373,6.3
+529,192,25,Megan Keys,35,Latrobe,PA,50:17,10:03/mi,F,30-39,376.9,-29.7,384,-3.2
+656,193,32,Troy Downey,44,Saltsburg,PA,50:19,10:04/mi,M,40-49,377.9,5.4,382.5,3.2
+659,194,26,Lorilynn Garris,33,Latrobe,PA,50:19,10:04/mi,F,30-39,376.5,-10.7,375.8,-3.2
+675,195,8,Krystalyn Martin,17,Derry,PA,50:28,10:05/mi,F,16-19,383.5,-22.2,380.2,-3.2
+672,196,24,Jeffrey Wareham,56,New Stanton,PA,50:33,10:06/mi,M,50-59,385.5,12,383,3.2
+549,197,12,Jennifer Pedrazzoli,43,Pittsburgh,PA,50:39,10:08/mi,F,40-49,390,-29.8,384.5,-6.6
+626,198,9,Lydia Klimchock,18,Latrobe,PA,50:53,10:11/mi,F,16-19,393,-3.2,390.2,-3.2
+574,199,17,April Libengood,28,Latrobe,PA,50:53,10:11/mi,F,20-29,383.1,-3.2,384.5,-3.2
+609,200,13,Dorothy Domasky,47,Sparta,NJ,50:57,10:11/mi,F,40-49,386.1,-12.6,394,-3.5
+608,201,33,Peter Domasky,48,Sparta,NJ,50:57,10:11/mi,M,40-49,394,6.8,392,6.3
+561,202,18,Danielle Kerin,21,Derry,PA,51:03,10:12/mi,F,20-29,396,-12.7,394.5,-3.2
+663,203,27,Alison Klosnik,32,Latrobe,PA,51:08,10:14/mi,F,30-39,397,-22.7,395.2,-3.2
+692,204,19,Debora Santos,22,Brazil,Brazil,51:46,10:21/mi,F,20-29,403,-3.2,404.5,-3.2
+666,205,14,Kelly Reott,42,Derry,PA,52:13,10:27/mi,F,40-49,413,-3.2,408,-3.2
+539,206,28,Rick Cobrando,30,Latrobe,PA,52:51,10:34/mi,M,30-39,418.5,5.2,416.3,3.2
+540,207,20,Camille Cobrando,29,Latrobe,PA,52:53,10:35/mi,F,20-29,418.5,-11.5,418,-3.2
+728,208,28,Danielle Keys,33,Latrobe,PA,53:35,10:43/mi,F,30-39,424,-3.2,424,-3.2
+591,209,7,Mary Niezelski,50,Latrobe,PA,53:39,10:44/mi,F,50-59,425,-20.4,429,-3.2
+517,210,10,Regis Marincheck,69,Latrobe,PA,53:53,10:46/mi,M,Over 60,433,3.2,433,3.2
+374,211,29,Dana Myers,36,Greensburg,PA,53:56,10:47/mi,F,30-39,429.5,-11.5,433.9,-3.2
+548,212,8,Pamella Syster,59,Latrobe,PA,54:11,10:50/mi,F,50-59,434.9,-21,439,-3.2
+735,213,30,Janet Dandullo,36,Smithton,PA,54:20,10:52/mi,F,30-39,439.4,-12.1,443.8,-3.2
+619,214,10,Kayla Zalich,16,Latrobe,PA,54:52,10:58/mi,F,16-19,449.4,-12.1,448,-3.2
+511,215,31,Diane Proctor,35,,PA,54:54,10:59/mi,F,30-39,444,-3.2,448.8,-11.8
+602,216,32,Julie Grace,35,Latrobe,PA,54:54,10:59/mi,F,30-39,444.9,-20.9,453.8,-3.2
+525,217,21,Mina Waldron,28,Latrobe,PA,54:57,10:59/mi,F,20-29,454,-3.2,449,-3.2
+670,218,1,Eloise Cary,62,Latrobe,PA,55:04,11:01/mi,F,Over 60,449.5,-29.8,451,-3.2
+730,219,33,Marlene Kunkle,36,Colorado Springs,CO,55:24,11:05/mi,F,30-39,459.4,-29.4,458.9,-11.8
+760,220,34,Jeff Kuhns,41,Latrobe,PA,55:25,11:05/mi,M,40-49,451,16.2,454.9,4.8
+718,221,9,Alesia Ruppen,50,Greensburg,PA,55:27,11:05/mi,F,50-59,459.4,-11.6,457,-3.2
+617,222,15,Jill Macey,45,Greensburg,PA,55:27,11:05/mi,F,40-49,454.9,-20.5,457.1,-5
+673,223,10,Zack Kennedy,19,Latrobe,PA,55:39,11:08/mi,M,16-19,460,20.3,460,3.2
+373,224,10,Nate Myers,9,Greensburg,PA,55:45,11:09/mi,M,1-16,466,3.2,458.2,3.2
+545,225,29,Mark Freeman,34,Latrobe,PA,55:48,11:10/mi,M,30-39,467,13.1,458.3,5.7
+555,226,5,Arianne Camarote,14,Latrobe,PA,55:50,11:10/mi,F,1-16,468,-6.6,465.8,-3.2
+372,227,30,Harold Myers,37,Greensburg,PA,55:52,11:10/mi,M,30-39,458,9,468,3.2
+604,228,34,Nikki Loucks,34,Latrobe,PA,55:55,11:11/mi,F,30-39,469,-26.5,467.5,-6.8
+552,229,31,Tom Repak,35,Derry,PA,55:56,11:11/mi,M,30-39,469,24.7,465.4,12.8
+596,230,16,Diane Bell,41,Latrobe,PA,56:04,11:13/mi,F,40-49,468.1,-16.6,467,-3.2
+689,231,32,Jeffrey Logeman,39,Pittsburgh,PA,56:55,11:23/mi,M,30-39,476,4.4,478.2,3.2
+654,232,10,Carol Miedel,55,Smithton,PA,57:13,11:26/mi,F,50-59,478,-14.2,479.5,-3.2
+563,233,35,Thomas Niezgoda,49,Latrobe,PA,57:16,11:27/mi,M,40-49,481.4,12.8,484,3.2
+662,234,22,Katie Showalter,25,Latrobe,PA,57:21,11:28/mi,F,20-29,480.5,-4.5,481.7,-3.2
+683,235,10,Kody Shaw-Henderson,27,Ligonier,PA,57:22,11:28/mi,M,20-29,485.9,3.9,489.3,3.2
+584,236,11,Susan Mignogna,54,Ligonier,PA,57:22,11:28/mi,F,50-59,487.7,-11.6,489.5,-3.2
+748,237,33,Timothy Noel,30,Latrobe,PA,57:41,11:32/mi,M,30-39,495,8.1,488.2,3.8
+741,238,35,Amy Dunbar,37,Johnstown,PA,58:04,11:37/mi,F,30-39,498,-11.9,493.9,-4.3
+657,239,17,Kathleen Giesey,43,Ligonier,PA,58:04,11:37/mi,F,40-49,493,-3.2,496,-3.2
+592,240,36,Geri Reed,32,Latrobe,PA,58:18,11:40/mi,F,30-39,503,-3.2,503.8,-3.2
+674,241,18,Gina Meintel,42,Altoona,PA,58:53,11:47/mi,F,40-49,513,-3.2,508,-3.2
+714,242,37,Stephanie Kimball,31,Greensburg,PA,1:00:33,12:06/mi,F,30-39,529.5,-3.2,533,-3.2
+719,243,12,Stephanie Deleo,53,Greensburg,PA,1:00:43,12:08/mi,F,50-59,539.5,-3.2,536,-3.2
+615,244,11,Rick Booth,65,Pittsburgh,PA,1:01:55,12:23/mi,M,Over 60,551.9,3.2,553,3.2
+556,245,12,Audley Denning,61,Derry,PA,1:02:27,12:29/mi,M,Over 60,561.9,3.7,563,3.2
+579,246,23,Lynn Korns,29,Hyndman,PA,1:03:09,12:38/mi,F,20-29,577,-3.2,572,-3.2
+578,247,38,Melissa Montique,35,Latrobe,PA,1:03:09,12:38/mi,F,30-39,567.1,-4.8,572,-3.2
+547,248,19,Monica Shoemaker,42,Latrobe,PA,1:05:14,13:03/mi,F,40-49,604,-3.2,604,-3.2
+771,249,13,Lois Hilliard,57,Greensburg,PA,1:11:13,14:14/mi,F,50-59,688.5,-3.2,693,-3.2
+686,250,39,Jody McGinity,35,Youngstown,PA,1:11:14,14:15/mi,F,30-39,698.5,-3.2,694,-3.2

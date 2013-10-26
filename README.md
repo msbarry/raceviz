@@ -1,4 +1,0 @@
-raceviz
-=======
-
-Interactive Race Visualizations
