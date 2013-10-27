@@ -4,22 +4,22 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <meta name="viewport" content="">
 
-    <title>2013 Latrobe 5 Miler - Interactive Race Results</title>
+    <title>2013 Ashland Half Marathon - Interactive Race Results</title>
 
-    <meta name="title" content="2013 Latrobe 5 Miler">
-    <meta name="description" content="Interactive Visualization of 2013 Latrobe 5 Miler Results">
+    <meta name="title" content="2013 Ashland Half Marathon">
+    <meta name="description" content="Interactive Visualization of 2013 Ashland Half Marathon Results">
 
-    <meta property="og:title" content="2013 Latrobe 5 Miler">
-    <meta property="og:description" content="Interactive Visualization of 2013 Latrobe 5 Miler Results">
+    <meta property="og:title" content="2013 Ashland Half Marathon">
+    <meta property="og:description" content="Interactive Visualization of 2013 Ashland Half Marathon Results">
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://msbarry.github.io/raceviz/2013-latrobe-5-miler/"/>
+    <meta property="og:url" content="http://msbarry.github.io/raceviz/2013-ashland-half-marathon/"/>
     <meta property="og:image" content="http://msbarry.github.io/raceviz/assets/ag-bubbles-3a053631fc5bdf2c908562c9637bd659.png"/>
     <meta property="fb:admins" content="9318920"/>
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:creator" content="@msb5014">
-    <meta name="twitter:title" content="2013 Latrobe 5 Miler">
-    <meta name="twitter:description" content="Interactive Visualization of 2013 Latrobe 5 Miler Results">
+    <meta name="twitter:title" content="2013 Ashland Half Marathon">
+    <meta name="twitter:description" content="Interactive Visualization of 2013 Ashland Half Marathon Results">
     <meta name="twitter:image" content="http://msbarry.github.io/raceviz/assets/ag-bubbles-3a053631fc5bdf2c908562c9637bd659.png">
 
     <link rel="stylesheet" href="http://msbarry.github.io/raceviz/assets/bootstrap-9b57ffa5155277fa7765dda4cd561e6b.css">
@@ -61,18 +61,18 @@
 
 <!--[if lte IE 8]>
   
-  <img src="http://msbarry.github.io/raceviz/2013-latrobe-5-miler/ie.png" alt="chart">
+  <img src="http://msbarry.github.io/raceviz/2013-ashland-half-marathon/ie.png" alt="chart">
   
   <p class="chromeframe">You are using an outdated browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to view the interactive version of this chart.</p>
 <![endif]-->
 <!--[if gt IE 8]><!-->
   <div class="controls">
   <div class="search">
-    <input type="text" placeholder="Find runners by name or city...">
+    <input type="text" placeholder="Find runners by name...">
     <button style="display:none;" class="search-clear">X</button>
     
     <div class="caption">
-      For example <a href="#Latrobe">Latrobe</a> or <a href="#Pittsburgh">Pittsburgh</a>
+      
     </div>
     
   </div>
@@ -85,10 +85,10 @@
 </div>
 <div id="capture">
   <div id="chart">
-    <div class="tip" style="width:150px;height:86px;display:none;">
+    <div class="tip" style="width:150px;height:70px;display:none;">
       <div class="tip-content">
         <div class="row"><span class="name">First Last</span></div>
-        <div class="row"><span class="age">Age</span><span class="gender">Gender</span> <span class="city">City, State</span></div>
+        
         <div class="row"><span class="time">MM:SS</span> (<span class="pace">MM:SS/MI</span>)</div>
         <div class="row"><span class="place">1</span>/<span class="total">10</span> Overall</div>
         <div class="row ag"><span class="agplace">1/2 in M1-14</span></div>
@@ -96,7 +96,7 @@
     </div>
   </div>
   <div id="legend"></div>
-  <h1>2013 Latrobe 5 Miler</h1>
+  <h1>2013 Ashland Half Marathon</h1>
   
   <div class="author"><a href="https://twitter.com/msb5014">Michael Barry<a/></div>
   
@@ -104,8 +104,8 @@
 <!-- <![endif]-->
 <script>
 var RACEVIZ = window.RACEVIZ || {};
-RACEVIZ.circleRadius = 4;RACEVIZ.padding = 2;
-RACEVIZ.datafile = "http://msbarry.github.io/raceviz/2013-latrobe-5-miler/data.csv";
+RACEVIZ.circleRadius = 3;RACEVIZ.padding = 2;RACEVIZ.groupSpacing = 100;RACEVIZ.animationDuration = 600;
+RACEVIZ.datafile = "http://msbarry.github.io/raceviz/2013-ashland-half-marathon/data.csv";
 </script>
 <script src="http://msbarry.github.io/raceviz/assets/d3/d3-4ac9ec5ae08f93ecc65d30e33006376f.js"></script>
 <script src="http://msbarry.github.io/raceviz/assets/ag-bubbles-3192874eb039b79d7f0b51bb74f63d51.js"></script>
