@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://msbarry.github.io/raceviz</loc>
+    <lastmod>2013-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2013-ashland-half-marathon/</loc>
+    <lastmod>2013-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2013-ashland-5k/</loc>
+    <lastmod>2013-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2013-detroit-free-press-marathon/</loc>
+    <lastmod>2013-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2013-run-around-hopkinton-marathon-relay/</loc>
+    <lastmod>2013-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2013-latrobe-5-miler/</loc>
+    <lastmod>2013-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2013-sharon-timlin-5k/</loc>
+    <lastmod>2013-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+</urlset>
