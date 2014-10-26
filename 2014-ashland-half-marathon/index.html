@@ -6,24 +6,24 @@
 
     
 
-    <title>2013 Ashland Half Marathon - Interactive Race Results</title>
+    <title>2014 Ashland Half Marathon - Interactive Race Results</title>
 
-    <meta name="title" content="2013 Ashland Half Marathon">
-    <meta name="description" content="Interactive Visualization of 2013 Ashland Half Marathon Results">
+    <meta name="title" content="2014 Ashland Half Marathon">
+    <meta name="description" content="Interactive Visualization of 2014 Ashland Half Marathon Results">
 
-    <meta property="og:title" content="2013 Ashland Half Marathon">
-    <meta property="og:description" content="Interactive Visualization of 2013 Ashland Half Marathon Results">
+    <meta property="og:title" content="2014 Ashland Half Marathon">
+    <meta property="og:description" content="Interactive Visualization of 2014 Ashland Half Marathon Results">
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://msbarry.github.io/raceviz/2013-ashland-half-marathon/"/>
+    <meta property="og:url" content="http://msbarry.github.io/raceviz/2014-ashland-half-marathon/"/>
     <meta property="og:image" content="http://msbarry.github.io/raceviz/assets/ag-bubbles-3a053631fc5bdf2c908562c9637bd659.png"/>
     <meta property="fb:admins" content="9318920"/>
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@msb5014">
     <meta name="twitter:site" content="@msb5014">
-    <meta name="twitter:title" content="2013 Ashland Half Marathon">
-    <meta name="twitter:description" content="Interactive Visualization of 2013 Ashland Half Marathon Results">
-    <meta name="twitter:image" content="http://msbarry.github.io/raceviz/2013-ashland-half-marathon/screenshot.png">
+    <meta name="twitter:title" content="2014 Ashland Half Marathon">
+    <meta name="twitter:description" content="Interactive Visualization of 2014 Ashland Half Marathon Results">
+    <meta name="twitter:image" content="http://msbarry.github.io/raceviz/2014-ashland-half-marathon/screenshot.png">
 
     <link rel="stylesheet" href="http://msbarry.github.io/raceviz/assets/bootstrap-9b57ffa5155277fa7765dda4cd561e6b.css">
     <link rel="stylesheet" href="http://msbarry.github.io/raceviz/assets/ag-bubbles-4b2440293f31a46eb11c5edf99d3080d.css">
@@ -44,13 +44,13 @@
     
 
 <!--[if lte IE 8]>
-  <img src="http://msbarry.github.io/raceviz/2013-ashland-half-marathon/ie.png" alt="chart">
+  <img src="http://msbarry.github.io/raceviz/2014-ashland-half-marathon/ie.png" alt="chart">
   <p class="chromeframe">You are using an outdated browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to view the interactive version of this chart.</p>
 <![endif]-->
 <!--[if gt IE 8]><!-->
   <div class="controls">
   <div class="search">
-    <input type="text" placeholder="Find runners by name...">
+    <input type="text" placeholder="Find runners by name or city...">
     <button style="display:none;" class="search-clear">X</button>
     
     <div class="caption">
@@ -67,10 +67,10 @@
 </div>
 <div id="capture">
   <div id="chart">
-    <div class="tip" style="width:150px;height:70px;display:none;">
+    <div class="tip" style="width:150px;height:86px;display:none;">
       <div class="tip-content">
         <div class="row"><span class="name">First Last</span></div>
-        
+        <div class="row"><span class="age">Age</span><span class="gender">Gender</span> <span class="city">City, State</span></div>
         <div class="row"><span class="time">MM:SS</span> (<span class="pace">MM:SS/MI</span>)</div>
         <div class="row"><span class="place">1</span>/<span class="total">10</span> Overall</div>
         <div class="row ag"><span class="agplace">1/2 in M1-14</span></div>
@@ -78,7 +78,7 @@
     </div>
   </div>
   <div id="legend"></div>
-  <h1>2013 Ashland Half Marathon</h1>
+  <h1>2014 Ashland Half Marathon</h1>
   
   <div class="author">
     <a href="http://msbarry.github.io/raceviz">More Interactive Race Results</a> by <a href="https://twitter.com/msb5014">Michael Barry<a/>
@@ -108,8 +108,8 @@ var addthis_config = {
 <!-- <![endif]-->
 <script>
 var RACEVIZ = window.RACEVIZ || {};
-RACEVIZ.circleRadius = 3;RACEVIZ.padding = 2;RACEVIZ.groupSpacing = 100;RACEVIZ.animationDuration = 600;RACEVIZ.overallYPosition = 110;RACEVIZ.xThreshold = 7;
-RACEVIZ.datafile = "http://msbarry.github.io/raceviz/2013-ashland-half-marathon/data.json";
+RACEVIZ.circleRadius = 4;RACEVIZ.padding = 2.5;RACEVIZ.groupSpacing = 70;RACEVIZ.animationDuration = 600;RACEVIZ.overallYPosition = 110;RACEVIZ.xThreshold = 10;RACEVIZ.miles = 13.1;
+RACEVIZ.datafile = "http://msbarry.github.io/raceviz/2014-ashland-half-marathon/data.json";
 </script>
 <script src="http://msbarry.github.io/raceviz/assets/d3/d3-4ac9ec5ae08f93ecc65d30e33006376f.js"></script>
 <script src="http://msbarry.github.io/raceviz/assets/ag-bubbles-67d4bf2aa7e52b6378e9c0e2c31158b7.js"></script>

@@ -2,11 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://msbarry.github.io/raceviz</loc>
-    <lastmod>2014-10-24</lastmod>
+    <lastmod>2014-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.2</priority>
   </url>
 
+  
+  <url>
+    <loc>http://msbarry.github.io/raceviz/2014-ashland-half-marathon/</loc>
+    <lastmod>2014-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
   
   <url>
     <loc>http://msbarry.github.io/raceviz/2014-run-around-hopkinton-marathon-relay/</loc>
