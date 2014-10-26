@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>http://msbarry.github.io/raceviz/2014-ashland-5k/</loc>
+    <lastmod>2014-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://msbarry.github.io/raceviz/2014-run-around-hopkinton-marathon-relay/</loc>
     <lastmod>2014-10-05</lastmod>
     <changefreq>monthly</changefreq>

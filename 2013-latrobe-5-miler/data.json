@@ -31,7 +31,7 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 751,30,1,Annah Sukay,42,Greensburg,PA,34:56,6:59/mi,F,40-49,146.6,-9.9,141.2,-3.9
 510,31,5,Matt Wano,19,Latrobe,PA,34:58,7:00/mi,M,16-19,140.7,20.9,141.5,3.2
 742,32,4,Jeff Graham,45,Monroeville,PA,35:22,7:04/mi,M,40-49,144.3,30.2,151.8,3.2
-571,33,1,Alan Hill,60,Irwin,PA,35:23,7:05/mi,M,Over 60,150.6,22.5,149.2,3.2
+571,33,1,Alan Hill,60,Irwin,PA,35:23,7:05/mi,M,60+,150.6,22.5,149.2,3.2
 601,34,4,Christian Shugars,14,Blairsville,PA,35:40,7:08/mi,M,1-16,148.9,56.8,155.4,3.2
 693,35,6,Drew Hanna,18,Latrobe,PA,35:44,7:09/mi,M,16-19,150,46.9,151.5,3.2
 618,36,2,Zachary Arbore,20,Derry,PA,35:45,7:09/mi,M,20-29,150.3,12.5,155.3,3.2
@@ -91,7 +91,7 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 688,90,4,Kasey Paul,18,Greensburg,PA,41:12,8:14/mi,F,16-19,249.6,-21.9,246.6,-3.2
 698,91,6,Philip Ferry,23,Youngstown,PA,41:16,8:15/mi,M,20-29,245.8,3.2,247.6,3.7
 687,92,16,Eric Quinn,31,Latrobe,PA,41:25,8:17/mi,M,30-39,255.3,6.5,250.3,3.2
-520,93,2,Larry Varchetti,66,Murrells Inlet,SC,41:28,8:17/mi,M,Over 60,247.7,13,251.1,3.2
+520,93,2,Larry Varchetti,66,Murrells Inlet,SC,41:28,8:17/mi,M,60+,247.7,13,251.1,3.2
 614,94,2,Kim Mohnkern,42,Ligonier,PA,41:31,8:18/mi,F,40-49,248.4,-12,250.2,-3.2
 635,95,5,Megan Beresford,24,Greensburg,PA,41:54,8:23/mi,F,20-29,253.4,-3.3,263.4,-8.3
 712,96,3,Jennifer Tinsman,40,Greensburg,PA,41:54,8:23/mi,F,40-49,258.5,-12,260.2,-3.2
@@ -115,7 +115,7 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 638,114,8,Kori Tetkoski,25,Latrobe,PA,43:39,8:44/mi,F,20-29,292.7,-25.8,292.7,-3.2
 623,115,6,Madison Mueseler,16,Latrobe,PA,43:46,8:45/mi,F,16-19,284.7,-3.6,289.7,-3.2
 542,116,19,Don Valentine,41,Ligonier,PA,43:47,8:45/mi,M,40-49,291.9,13,288.8,5.2
-519,117,3,Alan Baum,67,Delmont,PA,43:47,8:45/mi,M,Over 60,294.9,28.5,289.9,3.2
+519,117,3,Alan Baum,67,Delmont,PA,43:47,8:45/mi,M,60+,294.9,28.5,289.9,3.2
 744,118,9,Tara Oneal,23,Latrobe,PA,43:48,8:45/mi,F,20-29,286.1,-18.3,285.2,-3.2
 715,119,15,John Reinhardt,52,Duncansville,PA,43:56,8:47/mi,M,50-59,287.5,21.9,287.6,3.2
 743,120,21,Matt Maiers,31,Greensburg,PA,43:57,8:47/mi,M,30-39,297.7,44.8,290.9,18
@@ -130,12 +130,12 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 610,129,7,Andrew Domasky,12,Sparta,NJ,44:17,8:51/mi,M,1-16,293.9,3.2,298.3,3.2
 503,130,5,Amy Baldonieri,43,Greensburg,PA,44:23,8:53/mi,F,40-49,305,-24.6,303.5,-6.3
 616,131,18,John Fournier,52,Greensburg,PA,44:34,8:55/mi,M,50-59,301.4,9.8,307.6,20.5
-671,132,4,Michael Cary,63,Latrobe,PA,44:44,8:57/mi,M,Over 60,306.7,26.4,310.9,3.2
+671,132,4,Michael Cary,63,Latrobe,PA,44:44,8:57/mi,M,60+,306.7,26.4,310.9,3.2
 512,133,19,Kevin Cary,59,Teaneck,NJ,44:44,8:57/mi,M,50-59,307.6,46.5,302.6,11.9
 726,134,20,Tom Cuurry,45,Latrobe,PA,44:45,8:57/mi,M,40-49,302.2,35.4,305.8,3.4
 761,135,20,Vang Nguyen,57,Greensburg,PA,44:50,8:58/mi,M,50-59,308.9,16.4,312.5,11.9
 685,136,14,Tara Lancianese,31,Latrobe,PA,44:57,8:59/mi,F,30-39,308.8,-9.8,308.9,-4.2
-695,137,5,Paul Roble,67,Latrobe,PA,44:59,9:00/mi,M,Over 60,308.9,3.2,305.1,3.2
+695,137,5,Paul Roble,67,Latrobe,PA,44:59,9:00/mi,M,60+,308.9,3.2,305.1,3.2
 665,138,21,Mark Modaffare,58,Bellefonte,PA,45:04,9:01/mi,M,50-59,316.4,9.8,307.6,3.2
 713,139,21,Richard Tinsman,43,Greensburg,PA,45:21,9:04/mi,M,40-49,319.8,19.2,319.1,3.2
 603,140,22,Bob Coll,47,Latrobe,PA,45:26,9:05/mi,M,40-49,312.6,37.9,312.6,10.8
@@ -143,14 +143,14 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 543,142,23,Pete Murphy,47,Latrobe,PA,45:38,9:07/mi,M,40-49,316.5,28.6,324.1,11.9
 536,143,15,Emily Snyder,30,Jones Mills,PA,45:46,9:09/mi,F,30-39,320.6,-12.5,318.8,-3.2
 727,144,24,Chuck Krupper,39,Boswell,PA,45:47,9:09/mi,M,30-39,328.5,44.6,323.8,5.5
-694,145,6,John Bomboy,60,Home,PA,45:50,9:10/mi,M,Over 60,323,36.2,323,3.2
+694,145,6,John Bomboy,60,Home,PA,45:50,9:10/mi,M,60+,323,36.2,323,3.2
 557,146,16,Jaime Coll,34,Latrobe,PA,45:53,9:11/mi,F,30-39,320.1,-31.9,323.8,-11.9
 611,147,8,Michael Shoemaker,10,Latrobe,PA,46:01,9:12/mi,M,1-16,324,3.2,326.3,4.7
 559,148,22,Jim Gregory,51,Duncansville,PA,46:06,9:13/mi,M,50-59,333.8,5.2,328.8,3.2
 764,149,3,Melanie Hook,14,Greensburg,PA,46:09,9:14/mi,F,1-16,334.6,-4.7,328.6,-5.1
 763,150,24,James Hook,45,Greensburg,PA,46:12,9:14/mi,M,40-49,326.3,26.8,329.1,3.2
 754,151,17,Becky Kmetz,30,Acme,PA,46:13,9:14/mi,F,30-39,330,-33.3,328.8,-3.2
-586,152,7,Rich Null,61,Latrobe,PA,46:14,9:15/mi,M,Over 60,334.2,20.7,333,3.2
+586,152,7,Rich Null,61,Latrobe,PA,46:14,9:15/mi,M,60+,334.2,20.7,333,3.2
 585,153,11,Stacey Cadogan,26,Latrobe,PA,46:14,9:15/mi,F,20-29,336,-22.2,326,-3.2
 622,154,12,Kelly Clever,29,Derry,PA,46:15,9:15/mi,F,20-29,326.3,-24,336,-3.2
 537,155,25,Justin Smilo,31,Latrobe,PA,46:20,9:16/mi,M,30-39,327.7,13.1,333.8,5.5
@@ -170,11 +170,11 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 613,169,8,Lori Butina,40,Latrobe,PA,47:20,9:28/mi,F,40-49,352.8,-16.2,354.4,-9.7
 501,170,7,William Rundle,28,Hagerstown,MD,47:30,9:30/mi,M,20-29,355.7,20.5,350.3,3.2
 588,171,21,Amy Meyers,35,Latrobe,PA,47:32,9:30/mi,F,30-39,354.5,-6.3,348.8,-3.2
-538,172,8,James Kilpatrick,64,Jeannette,PA,47:32,9:30/mi,M,Over 60,351.8,11.3,350.3,3.2
+538,172,8,James Kilpatrick,64,Jeannette,PA,47:32,9:30/mi,M,60+,351.8,11.3,350.3,3.2
 550,173,28,Joe Pedrazzoli,44,Pittsburgh,PA,47:39,9:32/mi,M,40-49,357.6,3.2,354.5,3.2
 752,174,15,Kim Hilliard,23,Greensburg,PA,47:49,9:34/mi,F,20-29,359.5,-24.5,357.4,-3.8
 711,175,22,Tracy Bowman,31,Greensburg,PA,47:50,9:34/mi,F,30-39,362.7,-15.1,358.8,-3.2
-717,176,9,Roger Haney,60,Johnstown,PA,47:50,9:34/mi,M,Over 60,355.1,30.5,360.3,3.2
+717,176,9,Roger Haney,60,Johnstown,PA,47:50,9:34/mi,M,60+,355.1,30.5,360.3,3.2
 661,177,29,Timothy Yarborough,40,Derry,PA,47:57,9:35/mi,M,40-49,361.7,12.4,359.5,11.9
 515,178,30,Jeff Kozuch,40,Greensburg,PA,47:58,9:35/mi,M,40-49,365.1,31.6,364.5,3.2
 652,179,9,Hames Sokol,10,Sutersville,PA,48:00,9:36/mi,M,1-16,365.6,21.6,360.6,3.2
@@ -208,7 +208,7 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 540,207,20,Camille Cobrando,29,Latrobe,PA,52:53,10:35/mi,F,20-29,442.8,-6.7,442.5,-3.2
 728,208,28,Danielle Keys,33,Latrobe,PA,53:35,10:43/mi,F,30-39,452.2,-3.2,449.2,-3.2
 591,209,7,Mary Niezelski,50,Latrobe,PA,53:39,10:44/mi,F,50-59,450.5,-13.1,454.8,-3.2
-517,210,10,Regis Marincheck,69,Latrobe,PA,53:53,10:46/mi,M,Over 60,459.9,3.6,459.2,3.2
+517,210,10,Regis Marincheck,69,Latrobe,PA,53:53,10:46/mi,M,60+,459.9,3.6,459.2,3.2
 374,211,29,Dana Myers,36,Greensburg,PA,53:56,10:47/mi,F,30-39,461.7,-6.3,459.2,-3.2
 548,212,8,Pamella Syster,59,Latrobe,PA,54:11,10:50/mi,F,50-59,459.8,-16.7,464.8,-3.2
 735,213,30,Janet Dandullo,36,Smithton,PA,54:20,10:52/mi,F,30-39,469.1,-13,469.2,-3.2
@@ -216,7 +216,7 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 511,215,31,Diane Proctor,35,,PA,54:54,10:59/mi,F,30-39,471.3,-3.2,474.2,-11.9
 602,216,32,Julie Grace,35,Latrobe,PA,54:54,10:59/mi,F,30-39,474.1,-21.6,479.2,-3.2
 525,217,21,Mina Waldron,28,Latrobe,PA,54:57,10:59/mi,F,20-29,481.2,-3.2,477.1,-3.2
-670,218,1,Eloise Cary,62,Latrobe,PA,55:04,11:01/mi,F,Over 60,474.1,-32.7,479.1,-3.2
+670,218,1,Eloise Cary,62,Latrobe,PA,55:04,11:01/mi,F,60+,474.1,-32.7,479.1,-3.2
 730,219,33,Marlene Kunkle,36,Colorado Springs,CO,55:24,11:05/mi,F,30-39,482.4,-27.2,488.3,-7.2
 760,220,34,Jeff Kuhns,41,Latrobe,PA,55:25,11:05/mi,M,40-49,479.9,7.5,483.4,4.7
 718,221,9,Alesia Ruppen,50,Greensburg,PA,55:27,11:05/mi,F,50-59,489.1,-9.4,485.5,-3.2
@@ -242,8 +242,8 @@ bib,place,groupplace,name,age,city,state,time,pace,gender,group,xoverall,yoveral
 674,241,18,Gina Meintel,42,Altoona,PA,58:53,11:47/mi,F,40-49,547.2,-3.2,543,-3.2
 714,242,37,Stephanie Kimball,31,Greensburg,PA,1:00:33,12:06/mi,F,30-39,567.3,-3.2,570.9,-3.2
 719,243,12,Stephanie Deleo,53,Greensburg,PA,1:00:43,12:08/mi,F,50-59,577.3,-3.2,573.7,-3.2
-615,244,11,Rick Booth,65,Pittsburgh,PA,1:01:55,12:23/mi,M,Over 60,593.6,3.2,593.3,3.2
-556,245,12,Audley Denning,61,Derry,PA,1:02:27,12:29/mi,M,Over 60,603.6,3.2,603.3,3.2
+615,244,11,Rick Booth,65,Pittsburgh,PA,1:01:55,12:23/mi,M,60+,593.6,3.2,593.3,3.2
+556,245,12,Audley Denning,61,Derry,PA,1:02:27,12:29/mi,M,60+,603.6,3.2,603.3,3.2
 579,246,23,Lynn Korns,29,Hyndman,PA,1:03:09,12:38/mi,F,20-29,615.3,-3.2,614.5,-3.2
 578,247,38,Melissa Montique,35,Latrobe,PA,1:03:09,12:38/mi,F,30-39,615.3,-13.2,614.5,-3.2
 547,248,19,Monica Shoemaker,42,Latrobe,PA,1:05:14,13:03/mi,F,40-49,650.2,-3.2,649.4,-3.2
